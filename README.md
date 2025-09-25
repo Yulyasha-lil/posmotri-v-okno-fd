@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 https://github.com/Yulyasha-lil/posmotri-v-okno-fd
 # Посмотри в окон
+=======
+# Посмотри в окно
+>>>>>>> 860d6c72ff4a572e457aac0474fcf4071a191b0f
 
 ---
 
